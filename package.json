@@ -1,0 +1,26 @@
+{
+  "name": "react-native-use-storage",
+  "version": "1.0.0",
+  "description": "Type-safe AsyncStorage/MMKV hooks for React Native — typed get/set, JSON serialization, subscriptions, namespacing. Zero boilerplate.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "files": ["src", "README.md", "LICENSE"],
+  "keywords": [
+    "react-native", "hooks", "storage", "asyncstorage",
+    "mmkv", "typed", "typescript", "useStorage",
+    "persist", "key-value", "cache"
+  ],
+  "author": "Muhammad Suleman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MuhammadSuleman97/react-native-use-storage"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.64.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
